@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-30 10:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: unpluged-bar.php:82
+msgid "unpluged bar 1.0"
+msgstr ""
+
+#: unpluged-bar.php:83
+msgid "This plugin was built for a specific personal usage, and for that it is good as it is. if it will prove to be needed, i will try to improve the plugin."
+msgstr ""
+
+#: unpluged-bar.php:84
+msgid "To activate the plugin you'll need to paste the shortcode [unpbr] to the specific post or page, and set the donation goal and present state."
+msgstr ""
+
+#: unpluged-bar.php:87
+msgid "Settings"
+msgstr ""
+
+#: unpluged-bar.php:91
+msgid "The goal of this doantion campaign:"
+msgstr ""
+
+#: unpluged-bar.php:94
+msgid "The present state of this donation campaign:"
+msgstr ""
+
+#: unpluged-bar.php:97
+msgid "Link to donation page:"
+msgstr ""
+
+#: unpluged-bar.php:100
+msgid "Width of the middle part of the bar:"
+msgstr ""
+
+#: unpluged-bar.php:102
+msgid "just the number of pixels (without adding the \"px\")."
+msgstr ""
+
+#: unpluged-bar.php:104
+msgid "You can play with this attribute a bit, until it will please you."
+msgstr ""
+
+#: unpluged-bar.php:107
+msgid "Alternate texts"
+msgstr ""
+
+#: unpluged-bar.php:108
+msgid "if you want that different will appear above & below the bar, submit it here."
+msgstr ""
+
+#: unpluged-bar.php:109
+msgid "Alternate text for \"Our donation campaign:\""
+msgstr ""
+
+#: unpluged-bar.php:111
+msgid "Alternate text for \"Until now your good will brought to us:\""
+msgstr ""
+
+#: unpluged-bar.php:113
+msgid "Alternate text for \"We want to reach:\""
+msgstr ""
+
+#: unpluged-bar.php:116
+msgid "Style of donation box"
+msgstr ""
+
+#: unpluged-bar.php:117
+msgid "Here you can change the styling of the entire donation box, with css syntax"
+msgstr ""
+
+#: unpluged-bar.php:118
+msgid "Background:"
+msgstr ""
+
+#: unpluged-bar.php:120
+msgid "save settings"
+msgstr ""
+
+#: unpluged-bar.php:122
+msgid "If you want to give something back:"
+msgstr ""
+
+#: unpluged-bar.php:124
+msgid "My Amazon Wishlist"
+msgstr ""
+
+#: unpluged-bar.php:154
+msgid " Until now your good will brought to us:"
+msgstr ""
+
+#: unpluged-bar.php:155
+msgid "We want to reach:"
+msgstr ""
+
+#: unpluged-bar.php:156
+msgid "Our donation campaign:"
+msgstr ""
+
+#: unpluged-bar.php:161 unpluged-bar.php:163
+msgid " We need your help"
+msgstr ""
+
+#: unpluged-bar.php:166 unpluged-bar.php:168
+msgid "$"
+msgstr ""
